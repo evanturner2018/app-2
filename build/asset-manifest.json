@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.352721b4.chunk.css",
+    "main.js": "/static/js/main.eb097474.chunk.js",
+    "main.js.map": "/static/js/main.eb097474.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.abc35788.chunk.js": "/static/js/2.abc35788.chunk.js",
+    "static/js/2.abc35788.chunk.js.map": "/static/js/2.abc35788.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2b985cfe82f3c54c4d15a002e0401ab0.js": "/precache-manifest.2b985cfe82f3c54c4d15a002e0401ab0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.352721b4.chunk.css.map": "/static/css/main.352721b4.chunk.css.map",
+    "static/media/Banff.jpg": "/static/media/Banff.78ba522d.jpg",
+    "static/media/Beehive.jpg": "/static/media/Beehive.cd2e9514.jpg",
+    "static/media/GoodyBoy.jpg": "/static/media/GoodyBoy.10cc2e20.jpg",
+    "static/media/JordanPond.jpg": "/static/media/JordanPond.fc8f9a40.jpg",
+    "static/media/LocusWalk.jpg": "/static/media/LocusWalk.9ea23d53.jpg",
+    "static/media/Nostalgia.JPG": "/static/media/Nostalgia.9dbc64af.JPG",
+    "static/media/Philadelphia.jpeg": "/static/media/Philadelphia.eb3feabc.jpeg",
+    "static/media/Philly-1.jpg": "/static/media/Philly-1.e43d0692.jpg",
+    "static/media/SpringBlock.jpeg": "/static/media/SpringBlock.fd0d60eb.jpeg",
+    "static/media/eggs.jpg": "/static/media/eggs.bb20988d.jpg",
+    "static/media/mac.jpg": "/static/media/mac.cc09ecd0.jpg",
+    "static/media/matcha.jpg": "/static/media/matcha.63855f1c.jpg"
+  }
+}
